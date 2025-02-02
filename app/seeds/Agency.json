@@ -1,0 +1,189 @@
+[
+    {
+        "agency_title": "Birdview Association",
+        "admin_privileges": [
+            "Dashboard",
+            "Schools",
+            "Reports",
+            "Submissions",
+            "Applications",
+            "Accountability",
+            "Complaints",
+            "Reportwell University"
+        ],
+        "school_privileges": [
+            "Dashboard",
+            "Reports",
+            "Applications",
+            "Calendar",
+            "Reportwell University",
+            "Your School"
+        ],
+        "access_school": "yes",
+        "home_url": ""
+    },
+    {
+        "agency_title": "Birdview",
+        "admin_privileges": [
+            "Dashboard",
+            "Schools",
+            "Reports",
+            "Submissions",
+            "Applications",
+            "Accountability",
+            "Complaints",
+            "Reportwell University"
+        ],
+        "school_privileges": [
+            "Dashboard",
+            "Reports",
+            "Applications",
+            "Calendar",
+            "Reportwell University",
+            "Your School"
+        ],
+        "access_school": "yes",
+        "home_url": ""
+    },
+    {
+        "agency_title": "D49",
+        "admin_privileges": [
+            "Dashboard",
+            "Schools",
+            "Reports",
+            "Submissions",
+            "Applications",
+            "Accountability"
+        ],
+        "school_privileges": [
+            "Dashboard",
+            "Reports",
+            "Applications",
+            "Calendar",
+            "Your School"
+        ],
+        "access_school": "yes",
+        "home_url": ""
+    },
+    {
+        "agency_title": "MCPSC",
+        "admin_privileges": [
+            "Dashboard",
+            "Schools",
+            "Reports",
+            "Submissions",
+            "Applications",
+            "Accountability"
+        ],
+        "school_privileges": [
+            "Dashboard",
+            "Reports",
+            "Applications",
+            "Calendar",
+            "Your School"
+        ],
+        "access_school": "yes",
+        "home_url": ""
+    },
+    {
+        "agency_title": "Ministry of Magic",
+        "admin_privileges": [
+            "Dashboard",
+            "Schools",
+            "Reports",
+            "Submissions",
+            "Applications",
+            "Complaints",
+            "Accountability",
+            "Reportwell University"
+        ],
+        "school_privileges": [
+            "Dashboard",
+            "Reports",
+            "Applications",
+            "Reportwell University",
+            "Your School"
+        ],
+        "access_school": "yes",
+        "home_url": ""
+    },
+    {
+        "agency_title": "Dunder Mifflin",
+        "admin_privileges": [
+            "Dashboard",
+            "Schools",
+            "Reports",
+            "Submissions",
+            "Applications",
+            "Complaints"
+        ],
+        "school_privileges": [
+            "Dashboard",
+            "Reports",
+            "Applications",
+            "Calendar",
+            "Your School"
+        ],
+        "access_school": "yes",
+        "home_url": ""
+    },
+    {
+        "agency_title": "Limestone Charter Association",
+        "admin_privileges": [
+            "Dashboard",
+            "Schools",
+            "Reports",
+            "Submissions",
+            "Applications"
+        ],
+        "school_privileges": [
+            "Dashboard",
+            "Your School",
+            "Reports",
+            "Applications",
+            "Calendar"
+        ],
+        "access_school": "yes",
+        "home_url": ""
+    },
+    {
+        "agency_title": "NOLA Public Schools",
+        "admin_privileges": [
+            "Dashboard",
+            "Schools",
+            "Reports",
+            "Submissions",
+            "Applications",
+            "Complaints"
+        ],
+        "school_privileges": [
+            "Dashboard",
+            "Your School",
+            "Reports",
+            "Applications",
+            "Calendar"
+        ],
+        "access_school": "yes",
+        "home_url": ""
+    },
+    {
+        "agency_title": "NOLA",
+        "admin_privileges": [
+            "Dashboard",
+            "Schools",
+            "Reports",
+            "Submissions",
+            "Applications",
+            "Complaints"
+        ],
+        "school_privileges": [
+            "Dashboard",
+            "Your School",
+            "Reports",
+            "Applications",
+            "Calendar"
+        ],
+        "access_school": "yes",
+        "home_url": ""
+    }
+]

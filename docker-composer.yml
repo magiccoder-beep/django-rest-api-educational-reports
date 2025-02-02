@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: gunicorn config.wsgi:application --bind 0.0.0.0:80
+    volumes:
+      - .:/app
+    ports:
+      - "80:80"
+    env_file:
+      - .env  # Optional: Add environment variables in a .env file
+    depends_on:
+      - db
+
+  db:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 123456789
+      POSTGRES_DB: reportwelldb
+    ports:
+      - "5432:5432"
